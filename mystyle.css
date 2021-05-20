@@ -1,0 +1,35 @@
+.center-text {
+	text-align: center;
+}
+
+
+#contact {
+  background-color: lightblue;
+  padding: 50px;
+  height: 100px;
+  overflow: fill;
+  text-align: center;
+}
+
+#signup-button {
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+
+.events-card {
+  width: 20%;
+  margin-left: 4%;
+  margin-right: 4%;
+  float: left;
+  border: 1px solid black;
+  height: 200px;
+  padding: 2%;
+  border-radius: 10px;
+  border-color: blue;
+  overflow: auto;
+}
